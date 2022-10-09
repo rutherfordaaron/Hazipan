@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Hazipan
-- 👀 I’m interested in Front End Web Development and Game Development
-- 🌱 I’m currently self-learning JavaScript and popular JavaScript frameworks
-- 💞️ I’m looking to collaborate on Beginner level projects that use JavaScript or Java
-- 📫 How to reach me: rutherfordaaron1@gmail.com
+👋 Hi, I’m @Hazipan, and I'm an aspiring web developer. I have a good foundation in all the basics (HTML, CSS, JS) and some other tools (React.js, SASS, Next.js). I'm currently learning MongoDB and I'm working on some fullstack projects using the MERN stack. I’m looking to collaborate on Beginner level projects and land my first web development job.
 
-I am a self-taught programmer with a foundation in Java, HTML, CSS, and JavaScript. I've also dipped my toes into C++, but don't ask me to program anything in that yet!
-I'm just getting started on my Programming journey and am always on the lookout for opportunity to grow and enhance my skills.
-I'm currently working my way through FreeCodeCamp.org while completing projects on FrontendMentor.io to gain a foundation in web design so that I can kick start a career! Once I get comfortable with frontend design, I plan to learn backend!
-<!---
-Hazipan/Hazipan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me via:
+
+- [Email](rutherfordaaron1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aaron-rutherford-67aaa917a/)
+- [Twitter](twitter.com/AaZRuth)
