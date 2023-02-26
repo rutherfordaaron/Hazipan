@@ -1,7 +1,6 @@
-👋 Hi, I’m @Hazipan, and I'm an aspiring web developer. I have a good foundation in all the basics (HTML, CSS, JS) and some other tools (React.js, SASS, Next.js). I'm currently learning MongoDB and I'm working on some fullstack projects using the MERN stack. I’m looking to collaborate on Beginner level projects and land my first web development job.
+👋 Hi, I’m @Hazipan, and I'm a self-taught, full stack web developer. I'm experienced with the MERN stack using MongoDB as a database, React as a front end framework, and Express or Next.js to run the backend. Take a look at my [current project](https://gihub.com/Hazipan/recipe-box)! I'm also currently diving into freelance work by helping local Portland, OR businesses increase and improve their online presence, primarily by building them a stellar website. Professional website for my freelance work is pending, but stay tuned. In the mean time, check out [my portfolio](https://personal-website-omega-drab.vercel.app/) to learn more about me and see some of my projects!
 
 Reach me via:
 
 - [Email](rutherfordaaron1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/aaron-rutherford-67aaa917a/)
-- [Twitter](twitter.com/AaZRuth)
